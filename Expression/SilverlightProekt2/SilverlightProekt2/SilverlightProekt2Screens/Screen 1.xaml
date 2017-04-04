@@ -1,0 +1,28 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:pb="clr-namespace:Microsoft.Expression.Prototyping.Behavior;assembly=Microsoft.Expression.Prototyping.Interactivity"
+	x:Class="SilverlightProekt2Screens.Screen_1"
+	Width="640" Height="480">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<Image Source="Properties/S/Sketches (1).PNG" Stretch="Fill"/>
+		<Rectangle Fill="White" Stroke="Black" Height="20" HorizontalAlignment="Left" Margin="77,44,0,0" VerticalAlignment="Top" Width="40" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightProekt2Screens.Screen_1_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="White" Stroke="Black" Height="20" HorizontalAlignment="Left" Margin="117,44,0,0" VerticalAlignment="Top" Width="65" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightProekt2Screens.Screen_1_2"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+	</Grid>
+</UserControl>

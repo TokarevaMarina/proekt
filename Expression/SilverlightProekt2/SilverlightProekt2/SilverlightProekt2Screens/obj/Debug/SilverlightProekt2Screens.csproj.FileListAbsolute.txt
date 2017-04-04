@@ -1,0 +1,27 @@
+D:\Exp\SilverlightProekt2\SilverlightProekt2\Bin\Debug\SilverlightProekt2.Screens.dll
+D:\Exp\SilverlightProekt2\SilverlightProekt2\Bin\Debug\SilverlightProekt2.Screens.pdb
+D:\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\ResolveAssemblyReference.cache
+D:\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\Screen 1.g.cs
+D:\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\Screen 1_1.g.cs
+D:\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\Screen 1_2.g.cs
+D:\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\SilverlightProekt2.Screens.g.resources
+D:\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\SilverlightProekt2.Screens.dll
+D:\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\SilverlightProekt2.Screens.pdb
+F:\Expression\Exp\SilverlightProekt2\SilverlightProekt2\Bin\Debug\SilverlightProekt2.Screens.dll
+F:\Expression\Exp\SilverlightProekt2\SilverlightProekt2\Bin\Debug\SilverlightProekt2.Screens.pdb
+F:\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\ResolveAssemblyReference.cache
+F:\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\Screen 1.g.cs
+F:\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\Screen 1_1.g.cs
+F:\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\Screen 1_2.g.cs
+F:\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\SilverlightProekt2.Screens.g.resources
+F:\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\SilverlightProekt2.Screens.dll
+F:\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\SilverlightProekt2.Screens.pdb
+C:\Users\Марина\Desktop\Expression\Exp\SilverlightProekt2\SilverlightProekt2\Bin\Debug\SilverlightProekt2.Screens.dll
+C:\Users\Марина\Desktop\Expression\Exp\SilverlightProekt2\SilverlightProekt2\Bin\Debug\SilverlightProekt2.Screens.pdb
+C:\Users\Марина\Desktop\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Марина\Desktop\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\Screen 1.g.cs
+C:\Users\Марина\Desktop\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\Screen 1_1.g.cs
+C:\Users\Марина\Desktop\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\Screen 1_2.g.cs
+C:\Users\Марина\Desktop\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\SilverlightProekt2.Screens.g.resources
+C:\Users\Марина\Desktop\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\SilverlightProekt2.Screens.dll
+C:\Users\Марина\Desktop\Expression\Exp\SilverlightProekt2\SilverlightProekt2\SilverlightProekt2Screens\obj\Debug\SilverlightProekt2.Screens.pdb
